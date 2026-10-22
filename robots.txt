@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sujansaresta.github.io/koshvero-web/sitemap.xml
+Sitemap: https://sujansaresta.github.io/purnakosh-web/sitemap.xml
